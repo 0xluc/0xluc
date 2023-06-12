@@ -1,6 +1,7 @@
 ### Hi, I'm a junior fullstack developer, web3 enthusiast and a CTF player
 
-- 🔭 I’m currently working on a defi tranding bot
+- 🔭 I’m currently working on a defi trading bot
+- 🔹 I'm trying to solve [ethernaut's puzzles](https://ethernaut.openzeppelin.com/)
 - 🌱 I’m currently learning Rust
 
 <br/> 
