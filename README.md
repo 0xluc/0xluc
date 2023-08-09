@@ -1,8 +1,7 @@
 ### Hi, I'm a fullstack developer, web3 enthusiast and a CTF player
 
-- 🔭 I’m currently working on a defi trading bot
-- 🔹 I'm trying to solve [ethernaut's puzzles](https://ethernaut.openzeppelin.com/)
-- 🌱 I’m currently learning Rust
+- 🔭 I'm currently trying to integrate chess and web3
+- 🌱 I'm currently learning Rust
 
 <br/> 
 
