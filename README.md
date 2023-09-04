@@ -1,7 +1,7 @@
 ### Hi, I'm a fullstack developer, web3 enthusiast and a CTF player
 
 - 🔭 I'm currently trying to integrate chess and web3
-- 🌱 I'm currently learning Rust
+- 🌱 I'm currently learning Go
 
 <br/> 
 
