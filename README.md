@@ -1,10 +1,5 @@
 ### Hi, I'm a fullstack developer, web3 enthusiast and a CTF player
 
-- 🔭 I'm currently making a chess bot
-- 🌱 I'm currently learning Go
-
-<br/> 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
