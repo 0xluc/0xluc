@@ -52,5 +52,11 @@
 </div>
 
 </td></tr></table>  
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xluc&layout=donut-vertical&hide=jupyter%20notebook,html,c,scss,c%23&theme=dark)
+
+
+</div>
 
 <br/>  
